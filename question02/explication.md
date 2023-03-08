@@ -1,0 +1,1 @@
+Neste exemplo, a função `verificaFibonacci` recebe um número `num` como entrada e itera pela sequência de Fibonacci, verificando se o número pertence a ela ou não. Se o número for encontrado, a função retorna uma mensagem informando que o número pertence à sequência de Fibonacci. Caso contrário, a função retorna uma mensagem informando que o número não pertence à sequência.
