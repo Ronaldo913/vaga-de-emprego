@@ -1,0 +1,3 @@
+A lógica por trás desta sequência é que cada número subsequente é obtido multiplicando o número anterior por 2. Portanto, o próximo número na sequência seria 128, seguindo essa lógica.
+
+Neste código, inicializamos a variável `num` com o primeiro número na sequência, que é 2. Em seguida, usamos um loop `for` para imprimir os próximos 6 números na sequência. A cada iteração do loop, imprimimos o valor atual de `num` no console usando a função `console.log()` e multiplicamos `num` por 2 para obter o próximo número na sequência. Finalmente, imprimimos o último número na sequ
